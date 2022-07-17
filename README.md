@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Run-Buddy Inc.
-=======
 # Run-Buddy, Inc
->>>>>>> f0dcd7a0c6a38c11b516c72aac10a0fa601eab93
 
 
 ## Purpose
@@ -26,5 +22,4 @@ https://maximtz13.github.io/run-buddy/
 
 Made with ❤️ by Maximo Martinez Jr.
 
-
-### ©️2019 Run Buddy, Inc 
+#### ©️2019 Run Buddy, Inc 
