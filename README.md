@@ -22,5 +22,4 @@ https://maximtz13.github.io/run-buddy/
 
 Made with ❤️ by Maximo Martinez Jr.
 
-
-### ©️2019 Run Buddy, Inc 
+#### ©️2019 Run Buddy, Inc 
