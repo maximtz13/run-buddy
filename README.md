@@ -3,7 +3,7 @@
 
 ## Purpose
 
-A Website that offer fitness training services.
+A Website that offers fitness training services.
 
 
 ## Built With
